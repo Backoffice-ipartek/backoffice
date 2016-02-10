@@ -1,0 +1,5 @@
+/target/
+/.settings/
+/backoffice_model/
+/.classpath
+/.project
